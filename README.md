@@ -39,6 +39,17 @@
     - Uso correcto: Crear un nuevo usuario, agregar un nuevo producto, enviar un formulario.
     - Idempotencia: No, realizar la misma solicitud POST varias veces puede crear múltiples recursos.
 
+## Parte Práctica:
+Captura de Pantalla
+
+<p align="center">
+  <img src="img/screenshot-post-get.png" alt="Captura de Pantalla" width="600"><br>
+  <span>Captura de pantalla de las solicitudes POST y GET.</span>
+</p>
+
+
+
+
 ## Datos Estudiante
 
 - Nombre: Josué Javier Carrera Soyós
