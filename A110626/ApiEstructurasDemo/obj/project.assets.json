@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/avie/Documents/actividad/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
+      "projectUniqueName": "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
       "projectName": "ApiEstructurasDemo",
-      "projectPath": "/home/avie/Documents/actividad/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
+      "projectPath": "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
       "packagesPath": "/home/avie/.nuget/packages/",
-      "outputPath": "/home/avie/Documents/actividad/ApiEstructurasDemo/obj/",
+      "outputPath": "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/avie/.nuget/NuGet/NuGet.Config"

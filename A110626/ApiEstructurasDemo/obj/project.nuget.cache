@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DEmlgTnW9s2Q9VsvUoCf8V+z1ORMaTiNWnIRE/cZ+ZtRDF/MVLuNkvcAECHLDrKyvSSmcvoLB+e9ZWcEf1/Ceg==",
+  "dgSpecHash": "0lcjgcPK9gXMOzp4PzPFv8ow1a/CUhz6vxeCZyOPa5IpdNHCmAN4F1j+BLHNuBNh+zpbFyCihmRcuta1xtrn0w==",
   "success": true,
-  "projectFilePath": "/home/avie/Documents/actividad/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
+  "projectFilePath": "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
   "expectedPackageFiles": [
     "/home/avie/.nuget/packages/microsoft.aspnetcore.openapi/8.0.27/microsoft.aspnetcore.openapi.8.0.27.nupkg.sha512",
     "/home/avie/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
