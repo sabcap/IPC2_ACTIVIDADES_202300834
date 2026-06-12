@@ -31,3 +31,4 @@
 /home/avie/Documents/actividad/ApiEstructurasDemo/obj/Debug/net8.0/ApiEstructurasDemo.pdb
 /home/avie/Documents/actividad/ApiEstructurasDemo/obj/Debug/net8.0/ApiEstructurasDemo.genruntimeconfig.cache
 /home/avie/Documents/actividad/ApiEstructurasDemo/obj/Debug/net8.0/ref/ApiEstructurasDemo.dll
+/home/avie/Documents/actividad/ApiEstructurasDemo/obj/Debug/net8.0/ApiEstructurasDemo.sourcelink.json
