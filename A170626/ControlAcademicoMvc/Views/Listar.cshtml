@@ -1,0 +1,27 @@
+@model IEnumerable<ControlAcademicoMvc.Models.Estudiante>
+
+@{
+    ViewData["Title"] = "Listado de Estudiantes";
+}
+
+<h2>Sistema de Control Académico - Listado</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Carné</th>
+            <th>Nombre</th>
+            <th>Promedio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var estudiante in Model)
+        {
+            <tr>
+                <td>@estudiante.Carne</td>
+                <td>@estudiante.Nombre</td>
+                <td>@estudiante.Promedio</td>
+            </tr>
+        }
+    </tbody>
+</table>

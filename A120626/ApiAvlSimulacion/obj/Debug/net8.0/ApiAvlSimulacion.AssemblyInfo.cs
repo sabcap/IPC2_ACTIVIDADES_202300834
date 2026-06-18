@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAvlSimulacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab009328c572c6731b17ff61152aab530601cd21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+445f994915b89ec6515c2a5c334d1000dab286f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAvlSimulacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAvlSimulacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

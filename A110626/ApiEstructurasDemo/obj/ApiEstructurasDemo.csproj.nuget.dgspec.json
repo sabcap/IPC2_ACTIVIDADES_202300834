@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj": {}
+    "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj": {}
   },
   "projects": {
-    "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj": {
+    "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
+        "projectUniqueName": "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
         "projectName": "ApiEstructurasDemo",
-        "projectPath": "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
+        "projectPath": "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
         "packagesPath": "/home/avie/.nuget/packages/",
-        "outputPath": "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/obj/",
+        "outputPath": "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/avie/.nuget/NuGet/NuGet.Config"
@@ -61,7 +61,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.27, 8.0.27]"
+              "version": "[8.0.28, 8.0.28]"
             }
           ],
           "frameworkReferences": {
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.128/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

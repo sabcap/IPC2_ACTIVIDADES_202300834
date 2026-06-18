@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0lcjgcPK9gXMOzp4PzPFv8ow1a/CUhz6vxeCZyOPa5IpdNHCmAN4F1j+BLHNuBNh+zpbFyCihmRcuta1xtrn0w==",
+  "dgSpecHash": "AOWQ1oyUHMxc4WMnyFpk3ktP351CvJUODUiDDdvnTAifmu7d2swcijQd3UVjGLAf6OFtV5OU8wfRJX+ojUeW8g==",
   "success": true,
-  "projectFilePath": "/home/avie/Documents/scripts/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
+  "projectFilePath": "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A110626/ApiEstructurasDemo/ApiEstructurasDemo.csproj",
   "expectedPackageFiles": [
     "/home/avie/.nuget/packages/microsoft.aspnetcore.openapi/8.0.27/microsoft.aspnetcore.openapi.8.0.27.nupkg.sha512",
     "/home/avie/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -11,7 +11,7 @@
     "/home/avie/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "/home/avie/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
     "/home/avie/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
-    "/home/avie/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.27/microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+    "/home/avie/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
   ],
   "logs": []
 }
