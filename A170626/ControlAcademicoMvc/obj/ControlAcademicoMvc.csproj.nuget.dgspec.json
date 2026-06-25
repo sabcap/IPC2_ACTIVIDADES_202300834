@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj": {}
+    "/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj": {}
   },
   "projects": {
-    "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj": {
+    "/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj",
+        "projectUniqueName": "/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj",
         "projectName": "ControlAcademicoMvc",
-        "projectPath": "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj",
+        "projectPath": "/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj",
         "packagesPath": "/home/avie/.nuget/packages/",
-        "outputPath": "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/obj/",
+        "outputPath": "/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/avie/.nuget/NuGet/NuGet.Config"

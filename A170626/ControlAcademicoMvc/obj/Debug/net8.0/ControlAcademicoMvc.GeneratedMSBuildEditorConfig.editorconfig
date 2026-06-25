@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ControlAcademicoMvc
 build_property.RootNamespace = ControlAcademicoMvc
-build_property.ProjectDir = /home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/
+build_property.ProjectDir = /home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc
+build_property.MSBuildProjectDirectory = /home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/Pages/Error.cshtml]
+[/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/Pages/Index.cshtml]
+[/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/Pages/Privacy.cshtml]
+[/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/Pages/_ViewImports.cshtml]
+[/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/Pages/_ViewStart.cshtml]
+[/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/Views/Listar.cshtml]
+[/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/Views/Listar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlzdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A170626/ControlAcademicoMvc/Pages/Shared/_Layout.cshtml]
+[/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oswfm39jms

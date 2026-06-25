@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "suCFgFCvD0pHN8b6jyE6DFsQZSVCRY9+VAkBnJJkLZDYM0gjEfk6ygUwiWBR5fLyZTL75oeTHzzFfswW4EI/6w==",
+  "dgSpecHash": "iTeUm8Y3KgzEUbuMxzR6yfEQziP7vT7Oe97ko4Tr1S6n8WQE9NkUR+1v9AFdIx3/x+/Xlc/eNoRErFkMmuxakg==",
   "success": true,
-  "projectFilePath": "/home/avie/Documents/IPC2_ACTIVIDAD_202300834/A120626/ApiAvlSimulacion/ApiAvlSimulacion.csproj",
+  "projectFilePath": "/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A120626/ApiAvlSimulacion/ApiAvlSimulacion.csproj",
   "expectedPackageFiles": [
     "/home/avie/.nuget/packages/microsoft.aspnetcore.openapi/8.0.27/microsoft.aspnetcore.openapi.8.0.27.nupkg.sha512",
     "/home/avie/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
