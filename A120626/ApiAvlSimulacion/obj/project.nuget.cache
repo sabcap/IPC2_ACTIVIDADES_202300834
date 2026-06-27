@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iTeUm8Y3KgzEUbuMxzR6yfEQziP7vT7Oe97ko4Tr1S6n8WQE9NkUR+1v9AFdIx3/x+/Xlc/eNoRErFkMmuxakg==",
+  "dgSpecHash": "l0o07cHw0ds=",
   "success": true,
   "projectFilePath": "/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A120626/ApiAvlSimulacion/ApiAvlSimulacion.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,8 @@
     "/home/avie/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "/home/avie/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
     "/home/avie/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
-    "/home/avie/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+    "/home/avie/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/home/avie/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.28/microsoft.netcore.app.host.linux-x64.8.0.28.nupkg.sha512"
   ],
   "logs": []
 }

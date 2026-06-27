@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8QX+7GMbEwugoMUYNqrLPnFpH40uGNpOwMm+HtNzLEnU+SoypkSuAk/Q6n+hztEFR6/kjVczgaVXNfThfSLytQ==",
+  "dgSpecHash": "8vh0NIuhYu0=",
   "success": true,
   "projectFilePath": "/home/avie/Documents/IPC2_ACTIVIDADES_202300834/A170626/ControlAcademicoMvc/ControlAcademicoMvc.csproj",
   "expectedPackageFiles": [
-    "/home/avie/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+    "/home/avie/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/home/avie/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.28/microsoft.netcore.app.host.linux-x64.8.0.28.nupkg.sha512"
   ],
   "logs": []
 }
